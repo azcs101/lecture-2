@@ -1,0 +1,15 @@
+em {
+	color: red;
+}
+
+strong {
+	color: blue;
+}
+
+div {
+	color: orange;
+}
+
+div em {
+	color: green;
+}

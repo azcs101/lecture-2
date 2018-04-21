@@ -1,0 +1,36 @@
+.p-bold-and-italic {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.p-only-italic {
+	font-style: italic;
+}
+
+.p-lines-above-and-below {
+	text-decoration: underline overline
+}
+
+.p-uppercase {
+	text-transform: uppercase
+}
+
+.p-lowercase {
+	text-transform: lowercase;
+}
+
+.p-capitalize {
+	text-transform: capitalize;
+}
+
+.p-right {
+	text-align: right;
+}
+
+.p-left {
+	text-align: left;
+}
+
+.p-center {
+	text-align: center;
+}

@@ -1,0 +1,35 @@
+.color-red {
+	color: red !important;
+}
+
+.color-red p {
+	color: orange;
+}
+
+em {
+	color: brown;
+}
+
+p {
+	color: blue;
+}
+
+.gasim {
+	font-style: italic;
+}
+
+.color-red {
+	color: red;
+}
+
+.color-blue {
+	color: blue;
+}
+
+.color-red {
+	color: red;
+}
+
+.color-teal {
+	color: teal;
+}

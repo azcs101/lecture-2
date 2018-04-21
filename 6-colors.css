@@ -1,0 +1,15 @@
+.named-color {
+	color: darkblue;
+}
+
+.rgb-color {
+	color: rgb(74, 144, 226);
+}
+
+.hex-color {
+	color: #4A90E2;
+}
+
+.alpha-color {
+	color: rgba(74, 144, 226, 0.5);	
+}

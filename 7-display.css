@@ -1,0 +1,18 @@
+.content-inline {
+	display: inline;
+}
+
+.content-block {
+	display: block;
+}
+
+.content-ib {
+	display: inline-block;
+	padding: 5px;
+}
+
+.test {
+	padding: 100px;
+	border: 1px solid red;
+	margin: 50px;
+}
